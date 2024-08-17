@@ -135,5 +135,4 @@ The output of the visualization script is a plot that displays:
 - A **30-day moving average** of PR.
 - A **target budget line** for the expected PR performance.
 - Color-coded data points representing different ranges of Global Horizontal Irradiance (GHI).
-  
-The plot is saved as `performance_ratio_evolution.png` in the repository.
+
